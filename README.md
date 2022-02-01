@@ -12,7 +12,7 @@
 <br><br>
 📧 Mail : ilyasirgui@gmail.com
 
-🔗 My CV : [CV](https://drive.google.com/file/d/15eWxh8OBg3FpIbB_HwE0xfPq-nrw4mKB/view?usp=sharing)
+🔗 CV : [CV](https://drive.google.com/file/d/15eWxh8OBg3FpIbB_HwE0xfPq-nrw4mKB/view?usp=sharing)
 <!--
 **Daeels/Daeels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
