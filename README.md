@@ -1,7 +1,7 @@
 ### 👋 Hello world, meet Daeels!
 <h1 align="center">I'm Ilyas IRGUI 🤖</h1>
 <h4 align="center">I'm a 22 years old AI & Software Engineering Student looking for an internship.</h4>
-<h4 align="center">Find my portfolio linked below.</h4>
+<h4 align="center">📫 How to reach me:</h4>
 
 <br><br><h2 align="center">Contact:</h2><br>
 
