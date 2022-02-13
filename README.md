@@ -7,7 +7,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/ilyas-irgui-911352198/"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=fff&labelColor=282828">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
-<a href="https://github.com/Daeels"><img src="https://img.shields.io/badge/-Github-f0f6fc?style=for-the-badge&logo=github&logoColor=fff&labelColor=282828"></a>
+
 
 <br><br>
 📧 Mail : ilyasirgui@gmail.com
