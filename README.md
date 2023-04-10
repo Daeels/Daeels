@@ -1,7 +1,7 @@
 
 # 👋 Hello world, meet DA££L$!
 
-I’m Ilyas, a 23-year-old Ai & Computer science engineer and tech enthusiast.
+I’m Ilyas IRGUI, a 23-year-old Ai & Computer science engineer and tech enthusiast.
 <!--
 **Daeels/Daeels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
