@@ -5,8 +5,6 @@
 <h3 align="center"> Currently working as an Integration Engineer and software developer @CartaWorldWide</h3>
 <h3 align="center"> Excited to bring my skills and enthusiasm to a new role in AI and data to learn and to develop my skills</h3>
 
-<br/>
-
 <h1 align="center"> 📫 Reach me @</h1>
 
 <div align="center">
