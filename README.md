@@ -1,14 +1,32 @@
 
-# 👋 Hello world, meet DA££L$!
+<h1 align="center">👋 Hello world, meet DA££L$!</h1>
 
-I’m Ilyas IRGUI, a 23-year-old AI & Computer science Engineer and tech enthusiast.
+<h3 align="center"> I’m Ilyas IRGUI, a 23-year-old AI & Computer science Engineer</h3>
+<h3 align="center"> Currently working as an Integration Engineer @CartaWorldWide</h3>
+<h3 align="center"> Excited to bring my skills and enthusiasm to a new role in AI and data to learn and to develop my skills</h3>
 
-- ⚡ I’m currently working as an integration engineer at [CartaWorldWide](https://cartaworldwide.com/).
-- 🔭 I'm excited to bring my skills and enthusiasm to a new role in AI and data, where I can continue to learn and to develop my skills.
+<br/>
 
-## Contact 📧
+<h1 align="center"> 📫 Reach me @</h1>
 
-Reach me @  [ilyasirgui@gmailcom](mailto:ilyasirgui@gmailcom)
+<div align="center">
+    <a href="https://github.com/Daeels">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/github.png" width="4%"/>
+    </a>
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="mailto:ilyasirgui@gmail.com">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/medium.png" width="4%" />
+    </a>
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="https://www.linkedin.com/in/ilyas-irgui-911352198/">
+      <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/linkedin.png" width="4%"/>
+    </a>
+    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <a href="https://twitter.com/IrguiI">
+        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitter.png" width="4%"/>
+    </a>
+</div>
+
 <!--
 **Daeels/Daeels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
