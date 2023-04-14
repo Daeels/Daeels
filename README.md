@@ -1,11 +1,14 @@
 
 # 👋 Hello world, meet DA££L$!
 
-I’m Ilyas IRGUI, a 23-year-old Ai & Computer science engineer and tech enthusiast.
+I’m Ilyas IRGUI, a 23-year-old AI & Computer science Engineer and tech enthusiast.
 
 - ⚡ I’m currently working as an integration engineer at [CartaWorldWide](https://cartaworldwide.com/).
-- 🔭 I'm excited to bring my skills and enthusiasm to a new role in AI and data, where I can continue to learn, grow, and contribute to the development of cutting-edge technology.
-- 📫 How to reach me: [ilyasirgui@gmailcom](mailto:ilyasirgui@gmailcom)
+- 🔭 I'm excited to bring my skills and enthusiasm to a new role in AI and data, where I can continue to learn and to develop my skills.
+
+## Contact 📧
+
+Reach me @  [ilyasirgui@gmailcom](mailto:ilyasirgui@gmailcom)
 <!--
 **Daeels/Daeels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
