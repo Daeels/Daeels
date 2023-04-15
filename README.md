@@ -9,19 +9,19 @@
 
 <div align="center">
     <a href="https://github.com/Daeels">
-        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/github.png" width="4%"/>
+        <img src="https://github.com/Daeels/Daeels/blob/main/icons/github.png" width="4%"/>
     </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <img src="https://github.com/Daeels/Daeels/blob/main/icons/transparent.png" width="3%"/>
     <a href="mailto:ilyasirgui@gmail.com">
-        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/medium.png" width="4%" />
+        <img src="https://github.com/Daeels/Daeels/blob/main/icons/medium.png" width="4%" />
     </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <img src="https://github.com/Daeels/Daeels/blob/main/icons/transparent.png" width="3%"/>
     <a href="https://www.linkedin.com/in/ilyas-irgui-911352198/">
-      <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/linkedin.png" width="4%"/>
+      <img src="https://github.com/Daeels/Daeels/blob/main/icons/linkedin.png" width="4%"/>
     </a>
-    <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/transparent.png" width="3%"/>
+    <img src="https://github.com/Daeels/Daeels/blob/main/icons/transparent.png" width="3%"/>
     <a href="https://twitter.com/IrguiI">
-        <img src="https://github.com/SkalskiP/SkalskiP/blob/master/icons/twitter.png" width="4%"/>
+        <img src="https://github.com/Daeels/Daeels/blob/main/icons/twitter.png" width="4%"/>
     </a>
 </div>
 
