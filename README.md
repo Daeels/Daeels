@@ -1,5 +1,5 @@
 
-<h1 align="center">👋 Hello world, meet DA££L$!</h1>
+<h1 align="center">👋 Hello world, meet DA££L$🤖</h1>
 
 <h3 align="center"> I’m Ilyas IRGUI, a 23-year-old AI & Computer science Engineer</h3>
 <h3 align="center"> Currently working as an Integration Engineer and Software Developer <a href='https://cartaworldwide.com/'>@CartaWorldWide</a></h3>
