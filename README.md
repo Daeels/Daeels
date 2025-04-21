@@ -1,8 +1,8 @@
 
 <h1 align="center">👋 Hello World, Meet DA££L$🤖</h1>
 
-<h3 align="center"> I’m Ilyas IRGUI, a 23-year-old AI & Computer science Engineer</h3>
-<h3 align="center"> Currently working as an Integration Engineer and Software Developer <a href='https://cartaworldwide.com/'>@CartaWorldWide</a></h3>
+<h3 align="center"> I’m Ilyas IRGUI, a 25-year-old AI & Computer science Engineer</h3>
+<h3 align="center"> Currently working as an AI developer and Integration Engineer <a href='https://cartaworldwide.com/'>@CartaWorldWide</a></h3>
 <h3 align="center"> Excited to bring my skills to a new role in AI and data, to learn more and to develop my skills</h3>
 
 <h1 align="center"> 📫 Reach me @</h1>
