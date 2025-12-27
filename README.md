@@ -1,39 +1,41 @@
-
-<h1 align="center">👋 Hello World, Meet DA££L$🤖</h1>
-
-<h3 align="center"> I’m Ilyas IRGUI, a 26-year-old Data & AI Engineer</h3>
-
-<h1 align="center"> 📫 Reach me @</h1>
-
 <div align="center">
-    <a href="https://github.com/Daeels">
-        <img src="https://github.com/Daeels/Daeels/blob/main/icons/github.png" width="4%"/>
-    </a>
-    <img src="https://github.com/Daeels/Daeels/blob/main/icons/transparent.png" width="3%"/>
-    <a href="mailto:ilyasirgui@gmail.com">
-        <img src="https://github.com/Daeels/Daeels/blob/main/icons/medium.png" width="4%" />
-    </a>
-    <img src="https://github.com/Daeels/Daeels/blob/main/icons/transparent.png" width="3%"/>
-    <a href="https://www.linkedin.com/in/ilyas-irgui-911352198/">
-      <img src="https://github.com/Daeels/Daeels/blob/main/icons/linkedin.png" width="4%"/>
-    </a>
-    <img src="https://github.com/Daeels/Daeels/blob/main/icons/transparent.png" width="3%"/>
-    <a href="https://twitter.com/IrguiI">
-        <img src="https://github.com/Daeels/Daeels/blob/main/icons/twitter.png" width="4%"/>
-    </a>
+
+# 👋 Hello World, I'm Ilyas IRGUI (DA££L$) 🤖
+
+### 🚀 Data & AI Engineer | Turning Data into Intelligence
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue?style=for-the-badge&logo=react)](https://ilyasirgui.netlify.app/)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ilyas-irgui-911352198/)
+
+---
+
+### 🛠️ Tech Stack & Skills
+**AI & LLMs:** Agentic AI, RAG, Prompt Engineering, Fine-tuning  
+**Data Engineering:** Python, API Automation, ETL Pipelines, SQL  
+**Tools:** Git, Docker, Cloud Platforms
+
+---
+
+### 📫 Get in Touch
+
+<p align="center">
+  <a href="https://github.com/Daeels">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" width="40" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:ilyasirgui@gmail.com">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" width="40" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ilyas-irgui-911352198/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/IrguiI">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" width="40" alt="Twitter"/>
+  </a>
+</p>
+
 </div>
-
-<!--
-**Daeels/Daeels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
